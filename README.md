@@ -1,16 +1,20 @@
-## Hi there 👋
+### Olá, eu sou Gabriel Martins 💻
 
-<!--
-**gabrielfems/gabrielfems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Back-end focado em Java com experiência em construção de APIs RESTful robustas, arquitetura em camadas e boas práticas de desenvolvimento. Atualmente expandindo meu stack com Angular no front-end.
 
-Here are some ideas to get you started:
+Atualmente possuo experiência em:
+- Tratamento de erros e exceções;
+- Validação de dados com Bean Validation;
+- Testes unitários com Mockito e JUnit;
+- Banco de dados SQL e NoSQL;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudando:
+- Angular;
+- Spring Security;
+
+  
+ <div>
+  <a href="https://beacons.ai/gabrielfems">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfems&layout=compact&langs_count=16&theme=dark"/>
+  </a>
+</div>
