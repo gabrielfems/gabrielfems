@@ -6,12 +6,13 @@ Atualmente possuo experiência em:
 - Tratamento de erros e exceções;
 - Validação de dados com Bean Validation;
 - Testes unitários com Mockito e JUnit;
-- Banco de dados SQL e NoSQL;
+- Documentação com Swagger;
+- Banco de dados SQL e NoSQL.
 
 Estudando:
 - Angular;
 - Spring Security;
-- Boas práticas no desenvolvimento com Java e Spring Boot;
+- Boas práticas no desenvolvimento com Java e Spring Boot.
 
   
  <div>
