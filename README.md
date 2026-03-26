@@ -11,6 +11,7 @@ Atualmente possuo experiência em:
 Estudando:
 - Angular;
 - Spring Security;
+- Boas práticas no desenvolvimento com Java e Spring Boot;
 
   
  <div>
