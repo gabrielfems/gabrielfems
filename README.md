@@ -16,7 +16,7 @@
 
 ---
 
-## 👤 Sobre
+### 👤 Sobre
 <p>Estudante de Engenharia de Software apaixonado por backend, com foco em Java + Spring Boot.
 Construo APIs REST do zero com atenção a boas práticas: segurança, testes unitários e arquitetura limpa.
 Atualmente complementando a stack com Angular para atuar em empresas que trabalham com o ecossistema Java/Spring + Angular.
@@ -24,7 +24,7 @@ Aberto a oportunidades de estágio ou posição júnior em desenvolvimento backe
 
 ---
 
-## 🛠 Linguagens & ferramentas
+### 🛠 Linguagens & ferramentas
 
 ### Uso no dia a dia:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
