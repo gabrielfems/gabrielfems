@@ -51,3 +51,8 @@ Aberto a oportunidades de estágio ou posição júnior em desenvolvimento backe
 | 🟣 | Projeto acadêmico | Desenvolvimento de Sistema web com Java + React |
 | 🟠 | Próximo objetivo | Primeiro projeto full-stack (Java + Angular) |
 | 🤝 | Aberto para | Estágio · Posição Júnior · Projetos colaborativos |
+
+---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielfems&theme=tokyonight&hide_border=true" />
+</p>
